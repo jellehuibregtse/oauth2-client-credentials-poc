@@ -1,4 +1,4 @@
-package com.example.authorizationserver.security;
+package com.jellehuibregtse.authorizationserver.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

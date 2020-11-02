@@ -1,4 +1,4 @@
-package com.example.resourceserver.controller;
+package com.jellehuibregtse.resourceserver.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

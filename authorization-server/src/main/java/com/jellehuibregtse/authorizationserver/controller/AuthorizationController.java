@@ -1,4 +1,4 @@
-package com.example.authorizationserver.controller;
+package com.jellehuibregtse.authorizationserver.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
