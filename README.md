@@ -1,4 +1,4 @@
-# OAuth2: A Proof of Concept
+# OAuth2 – Client Credentials Grant: A Proof of Concept
 
 ## About
 This is a simple proof of concept for an OAuth2 implementation in Java Spring Boot using the microservices architecture. There are two services: an authorization server and a resource server.
